@@ -1,4 +1,4 @@
-# Aplicativo ATM em Flutter <img align="center" alt="Vini-HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> | <img align="center" alt="Vini-HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+# Aplicativo ATM <img align="center" alt="Vini-HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> | <img align="center" alt="Vini-HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
           
 Este é um aplicativo desenvolvido em aula na Etec Prof. Basilides de Godoy, para ver as funções "onTap()" e a navegação entre diferentes páginas do App.
 
