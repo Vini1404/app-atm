@@ -1,5 +1,5 @@
 # Aplicativo ATM em Flutter
-Este é um aplicativo de caixa eletrônico (ATM) básico construído em Flutter. O aplicativo simula uma interface de caixa eletrônico em que o usuário pode inserir o número da conta e o PIN para acessar as funções bancárias, como retirada, depósito e verificação de saldo.
+Este é um aplicativo desenvolvido em aula na Etec Prof. Basilides de Godoy, para ver as funções "onTap()" e a navegação entre diferentes páginas do App.
 
 ## Funcionalidades
 - Mudar entre as telas
