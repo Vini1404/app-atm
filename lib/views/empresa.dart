@@ -16,7 +16,7 @@ class _EmpresaState extends State<Empresa> {
     return Scaffold(
         backgroundColor: Color.fromARGB(255, 235, 235, 235),
         appBar: AppBar(
-          backgroundColor: const Color.fromARGB(255, 81, 142, 255),
+          backgroundColor: const Color.fromARGB(255, 236, 113, 72),
           centerTitle: true,
           title: Row(
             mainAxisAlignment: MainAxisAlignment.center,
