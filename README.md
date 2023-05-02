@@ -36,6 +36,8 @@ flutter run
 4. Faça o push para a branch: `git push origin minha-nova-feature`
 5. Crie um novo Pull Request
 
-## Autor
+## Licença
 
-Marcus Vinicius de Aguiar Paixão
+Este projeto é licenciado sob a licença MIT - consulte o arquivo LICENSE.md para obter mais detalhes.
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Vini1404/app-atm/blob/main/LICENSE.md)
